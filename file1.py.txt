@@ -1,4 +1,8 @@
 print("Hello all")
 print("Hii brother")
 print("Line 3 by other person")
+<<<<<<< HEAD
 print("Merge test on local")
+=======
+print("Merge test on Git")
+>>>>>>> fb5bfd0c1e8a5ad4f3764edef3a8563735a28fc9
